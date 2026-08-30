@@ -9,4 +9,4 @@ At this stage, I’m still figuring out what I truly want to pursue. I haven’t
 
 I had initially taken some time to adjust during my first semester, but this semester I wanted to become more active and try new things. I have already explored opportunities through another club while managing my academics, and alongside that, I have been making an effort to work on these tasks whenever possible.
 
-Even though I’m still at the beginning of my journey, I’m enthusiastic about learning, experimenting, making mistakes, and improving from them. I want AMFOSS to be a place where I can challenge myself, discover my interests, build useful skills, contribute to others, and gradually become a better and more confident version of myself.
+Even though I’m still at the beginning of my journey, I’m enthusiastic about learning, experimenting, making mistakes, and improving from them. I want amFOSS to be a place where I can challenge myself, discover my interests, build useful skills, contribute to others, and gradually become a better and more confident version of myself.
